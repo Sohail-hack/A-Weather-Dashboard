@@ -1,0 +1,11 @@
+# API keys and secrets
+keys.local.js
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# System files
+.DS_Store
